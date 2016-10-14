@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Robo Control - CARduino</string>
+
+    <string name="lblBemVindo01">Bem Vindo</string>
+    <string name="lblBemVindo02">UM PROTÓTIPO DE VEÍCULO AUTOMATIZADO DESENVOLVIDO COM BAIXO CUSTO EM ARDUINO E CONTROLADO POR UM APLICATIVO ANDROID</string>
+    <string name="lblBemVindo03">Everton Rafael da Silva</string>
+    <string name="lblVersaoApk">Versão: 2.0</string>
+    <string name="frente">FRENTE</string>
+    <string name="esquerda">ESQUERDA</string>
+    <string name="parar">PARAR</string>
+    <string name="direita">DIREITA</string>
+    <string name="tras">RÉ</string>
+    <string name="mnu_exp">Escolha uma das opções:</string>
+    <string name="btn_mnu_manual">Controle Manual</string>
+    <string name="btn_mnu_automatico">Controle Automático</string>
+    <string name="btn_mnu_fechar">Fechar APP</string>
+</resources>
